@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Titel</title>
+</head>
+<body>
+    <h1>Titel</h1>
+    <ol>punk1</ol>
+    <ol>punk2</ol>
+    <ol>punk3</ol>
+    <ol>punk4</ol>
+    <ol>punk5</ol>
+    <a href="https://www.google.com/search?q=js&source=lmns&bih=625&biw=1366&hl=de&sa=X&ved=2ahUKEwjjxZrcvsP_AhXHsaQKHVFeD_kQ_AUoAHoECAEQAA">Text</a>
+    <img src="https://www.loewe-verlag.de/_cover_media/titel/648h/10465.jpg" alt="">
+    
+    
+</body>
+</html>
